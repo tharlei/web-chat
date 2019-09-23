@@ -1,0 +1,23 @@
+body {
+    background: #222!important;
+}
+
+#messages {
+    height: 80vh;
+    overflow: auto;
+    margin-top: 10vh;
+}
+
+.tharlei {
+    background-color: #dc3545!important;
+    text-align: right;
+}
+
+.user {
+    background-color: #7d35dc!important;
+}
+
+.message {
+    border-radius: 20px;
+    padding: 10px;
+}
